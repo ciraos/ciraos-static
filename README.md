@@ -5,7 +5,7 @@
 ## 预览
 
 - miku.png
-![Miku](https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/miku.png)
+![Miku](https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/miku.webp)
 
 ## 使用方法
 
