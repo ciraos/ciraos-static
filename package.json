@@ -1,0 +1,19 @@
+{
+  "name": "ciraos-static",
+  "version": "1.0.0",
+  "description": "[JSD文件链接界面](https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciraos/ciraos-static.git"
+  },
+  "author": "Ciraos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciraos/ciraos-static/issues"
+  },
+  "homepage": "https://github.com/ciraos/ciraos-static#readme"
+}
