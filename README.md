@@ -4,7 +4,7 @@
 
 ## 预览
 
-- miku.png
+- miku.avif
 ![Miku](https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/erciyuan/miku1.avif)
 
 ## 使用方法
